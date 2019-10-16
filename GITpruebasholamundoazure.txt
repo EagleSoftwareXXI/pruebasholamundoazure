@@ -1,0 +1,44 @@
+luis amaya@LAPTOP-D8JME8EE MINGW64 ~
+$ cd c:
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c
+$ cd xampp
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp
+$ cd htdocs
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs
+$ cd pruebasholamundoazure
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs/pruebasholamundoazure
+$ git init
+Initialized  empty Git repository in C:/xampp/htdocs/pruebasholamundoazure/.git/
+
+$git add.
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs/pruebasholamundoazure (master)
+$ git config --global user.email "luisamaya751@gmail.com"
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs/pruebasholamundoazure (master)
+$ git commit -m "pruebas hola mundo para azure"
+[master (root-commit) f4d98a9] pruebas hola mundo para azure
+ 2 files changed, 54 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 indexr.txt.txt
+
+
+$ git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 560 bytes | 186.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/EagleSoftwareXXI/pruebasholamundoazure.git
+ * [new branch]      master -> master
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs/pruebasholamundoazure (master)
+$ ^C
+
+luis amaya@LAPTOP-D8JME8EE MINGW64 /c/xampp/htdocs/pruebasholamundoazure (master)
+$

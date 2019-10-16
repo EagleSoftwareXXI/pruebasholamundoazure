@@ -1,0 +1,28 @@
+
+$ cd c:
+
+
+$ cd xampp
+
+
+$ cd htdocs
+
+
+$ cd pruebasholamundoazure
+
+
+$ git init
+
+
+$git add.
+
+
+$ git config --global user.email "luisamaya751@gmail.com"
+
+
+$ git commit -m "pruebas hola mundo para azure"
+
+
+
+$ git push origin master
+
